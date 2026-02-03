@@ -1,10 +1,3 @@
-Great choice, Ayman. Having your LinkedIn linked directly in your project is the best way to get recruiters to reach out to you.
-
-Here is your final, complete README.md code. I’ve added your name and your LinkedIn link as a professional signature at the bottom.
-
-Markdown
-# Manchester United Tactical & Performance Analytics Suite
-
 ## 📝 Project Description
 This is my second major project, and as a Manchester United fan, it was a labor of love. It took significant time to gather, clean, and synthesize data from across the web—specifically using sources like **FBRef**, **WhoScored**, **Transfermarkt**, and independent match research. 
 

@@ -1,0 +1,21 @@
+Player,Role,Pitch_X,Pitch_Y,Status
+Senne Lammens,GK,50,5,Starter
+Luke Shaw,LB,20,30,Starter
+Lisandro Martinez,LCB,40,25,Starter
+Harry Maguire,RCB,60,25,Starter
+Diogo Dalot,RB,80,30,Sub_Out
+Kobbie Mainoo,LDM,40,45,Starter
+Casemiro,RDM,60,45,Sub_Out
+Matheus Cunha,LW,25,70,Sub_Out
+Bruno Fernandes,CAM,50,65,Starter
+Amad Diallo,RW,75,70,Starter
+Bryan Mbeumo,ST,50,85,Sub_Out
+Leny Yoro,RCB,65,22,Sub_In
+Noussair Mazraoui,RWB,85,32,Sub_In
+Manuel Ugarte,CM,55,48,Sub_In
+Benjamin Sesko,ST,50,82,Sub_In
+Altay Bayindir,GK,0,0,Sub
+Joshua Zirkzee,FW,0,0,Sub
+Tyrell Malacia,DF,0,0,Sub
+Ayden Heaven,DF,0,0,Sub
+Shea Lacey,FW,0,0,Sub
